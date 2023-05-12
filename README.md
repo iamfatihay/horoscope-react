@@ -72,8 +72,5 @@ This project is licensed under the MIT License. For more information, please ref
 
 If you have any questions or suggestions regarding the project, please provide a clear explanation. You can contact the project owner via the following email address:
 
-Fatih Ay - fatihay@example.com
+Fatih Ay - 16fay61@gmail.com
 
----
-
-This `README.md` file provides essential information for the `horoscope-react` project.
