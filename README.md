@@ -66,7 +66,7 @@ If you would like to contribute to this project, you can follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. For more information, please refer to the [`LICENSE`](LICENSE) file.
+This project is licensed under the MIT License.
 
 ## Contact
 
