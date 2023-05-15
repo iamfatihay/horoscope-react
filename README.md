@@ -1,4 +1,6 @@
 
+## https://horoscope-react-fay.netlify.app/
+
 # Horoscope React
 
 This is a React application called `horoscope-react` that displays zodiac signs and daily horoscope readings.
